@@ -10,15 +10,15 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320'] //ur number 
+global.Owner = ['918348225320'] //+13023296523
 global.OwnerNumber = ['918348225320']
 global.ownertag = ['918348225320']
-global.BotName = "ZenitsuBot" //ur bot name 
+global.BotName = "ZenitsuBot" //DLX SACHU
 global.packname = "ZenitsuBot"
 global.author = "🦄Dream Guy Deepak" //ur sticker pack name 
 global.OwnerName = "🦄Dream Guy Deepak" //ur name
-global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
-global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
+global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //https://youtube.com/@lljlover
+global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //https://chat.whatsapp.com/LMcHEgeo56hGYGJT22yAuc
 global.sessionName = "session"
 
 // Prefix //
